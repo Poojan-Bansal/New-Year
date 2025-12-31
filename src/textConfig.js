@@ -36,7 +36,7 @@ I want you to know that you are the most precious person in my life. Every day w
       letterHeaderTitle: "Dear Friend",
       letterMessage: `Dear Friend,
 
-  As the year turns, may your days be filled with laughter, love, and new adventures. May every dream you chase bring you closer to happiness and every moment be a memory worth cherishing.
+  Asss the year turns, may your days be filled with laughter, love, and new adventures. May every dream you chase bring you closer to happiness and every moment be a memory worth cherishing.
 
   Wishing you a fantastic 2026 ahead!\n\nHappy New Year! 🎉\n`,
       letterSignature: "Cheers! 🎉",
